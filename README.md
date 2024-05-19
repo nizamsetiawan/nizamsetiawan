@@ -2,7 +2,7 @@
 
 ![version: 26.12.2023](https://img.shields.io/badge/version-26.12.2023-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=nizamsetiawan&style=flat&label=visitors)&nbsp;
-[![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@nizamsetiawan)&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/2ced7ec5-155b-498b-be8c-c237cf4936d7.svg)](https://wakatime.com/@nizam)&nbsp;
 [![GitHub: nizamsetiawan](https://img.shields.io/github/followers/nizamsetiawan?label=follow&style=social)](https://github.com/nizamsetiawan)&nbsp;
 
 #### Welcome to my [Codepark](https://fachridantm.github.io/)! 🏡
