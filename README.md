@@ -1,4 +1,4 @@
-# Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://nizamsetiawan.my.id/)
+# Hello, Everyone! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://nizamsetiawan.my.id/)
 
 ![version: 19.05.2024](https://img.shields.io/badge/version-19.05.2024-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=nizamsetiawan&style=flat&label=visitors)&nbsp;
