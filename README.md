@@ -8,4 +8,15 @@
 #### Welcome to my Github! 🗂, I'm [Muhammad Nizam Setiawan](https://nizamsetiawan.my.id/) 👨‍💻
 I'm a passionate Android developer, deeply in love with the world of Kotlin, and constantly striving to make better Android apps. 🚀
 
+## 🛠 Tech Stack
+  [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/fachridantm/)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 
