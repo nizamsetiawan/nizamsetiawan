@@ -28,5 +28,5 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamsetiawan&hide_border=true&theme=tokyonight">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nizamsetiawan&layout=compact&hide_border=true&theme=tokyonight">](https://wakatime.com/@nizam)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nizams&layout=compact&hide_border=true&theme=tokyonight">](https://wakatime.com/@nizam)
 | ------------- |
