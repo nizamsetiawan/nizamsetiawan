@@ -22,7 +22,7 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
 
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizamsetiawan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="nizamsetiawan's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizamsetiawan&langs_count=12&layout=compact&hide_border=true&theme=tokyonight" alt="nizamsetiawan's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizamsetiawan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="nizamsetiawan's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizamsetiawan&langs_count=4&layout=compact&hide_border=true&theme=tokyonight" alt="nizamsetiawan's Most Used Language">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamsetiawan&hide_border=true&theme=tokyonight">
