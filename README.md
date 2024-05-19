@@ -6,6 +6,6 @@
 [![GitHub: nizamsetiawan](https://img.shields.io/github/followers/nizamsetiawan?label=follow&style=social&color=green)](https://github.com/nizamsetiawan)&nbsp;
 
 #### Welcome to my Github! 🗂, I'm [Muhammad Nizam Setiawan](https://nizamsetiawan.my.id/) 👨‍💻
-I'm a passionate Android developer, deeply in love with the world of Kotlin and Flutter, and constantly striving to make better Android apps. 🚀
+I'm a passionate Android developer, deeply in love with the world of Kotlin, and constantly striving to make better Android apps. 🚀
 
 
