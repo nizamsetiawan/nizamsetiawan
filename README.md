@@ -20,4 +20,4 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizamsetiawan&theme=nightowl_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
