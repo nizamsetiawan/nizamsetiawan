@@ -20,4 +20,11 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+## 📈 Github Stats
+  
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizamsetiawan&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="nizamsetiawan's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizamsetiawan&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="nizamsetiawan's Most Used Language">
+| ------------- | ------------- |  
+
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamsetiawan&hide_border=true&theme=tokyonight">
+| ------------- |
+
