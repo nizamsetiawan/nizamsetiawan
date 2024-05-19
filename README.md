@@ -30,3 +30,13 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
 
 | [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nizam&layout=compact&hide_border=true&theme=tokyonight">](https://wakatime.com/@nizam)
 | ------------- |
+
+## 🤝🏻 Connect with Me!
+[![Email: nizamsetiawan15@gmail.com](https://img.shields.io/badge/-nizamsetiawan15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nizamsetiawan15@gmail.com)
+[![LinkedIn: Muhammad Nizam Setiawan](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nizamstwn/)](https://www.linkedin.com/in/nizamstwn/)
+[![Instagram: nizam.stwn](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nizamstwn)
+
+
+If you're interested in exciting Android projects or collaborations, don't hesitate to get in touch. I'm always open to discussions and sharing knowledge!
+
+Thanks for visiting my GitHub profile. Let's collaborate and turn your Android ideas into reality. 🤝
