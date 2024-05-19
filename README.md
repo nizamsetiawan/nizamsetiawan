@@ -8,7 +8,7 @@
 #### Welcome to my Github! 🗂, I'm [Muhammad Nizam Setiawan](https://nizamsetiawan.my.id/) 👨‍💻
 I'm a passionate Android developer, deeply in love with the world of Kotlin, and constantly striving to make better Android apps. 🚀
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
   [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/fachridantm/)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -20,3 +20,4 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizamsetiawan&show_icons=true&theme=radical)
